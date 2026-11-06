@@ -1,49 +1,111 @@
-# Hi, I'm Yasmine 👋
+ <div align="center">
 
-<p align="center">
-  Computer Science Engineering Student · AI/ML Engineering · LLM Systems · MLOps
-</p>
+# Yasmine Srioui
 
-<p align="center">
-  <a href="https://linkedin.com/in/yasmine-srioui"><img src="https://img.shields.io/badge/LinkedIn-Yasmine%20Srioui-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:yasminesrioui@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://raw.githubusercontent.com/yasmine212/yasmine212/main/Yasmine_Srioui_CV_EN.pdf"><img src="https://img.shields.io/badge/CV-PDF-444?logo=readthedocs&logoColor=white" alt="CV"></a>
-</p>
+**Computer Science Engineering Student · AI/ML Engineering**
+
+Building intelligent systems with a focus on reliability, traceability, and human oversight.
+
+<br/>
+
+<a href="https://linkedin.com/in/yasmine-srioui">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-365D78?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yasminesrioui@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-555555?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://raw.githubusercontent.com/yasmine212/yasmine212/main/Yasmine_Srioui_CV_EN.pdf">
+  <img src="https://img.shields.io/badge/Resume-View%20PDF-365D78?style=flat-square&logo=readthedocs&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 👩‍💻 About me
+### 01 / About
 
-I'm a final-year Computer Science Engineering student at **ENSIT (Tunisia)**. I like the part of AI that comes after the demo: making answers traceable, measuring whether they're any good, and keeping a human in the loop when it matters.
+I'm a final-year Computer Science Engineering student at **ENSIT, Tunisia**.
 
-I've worked on AI applications involving sensitive information, where being wrong has a real cost.
+I'm interested in the engineering behind AI systems: making answers traceable, evaluating their reliability, and ensuring human oversight where it matters.
 
-## 🔭 What I work on
+My experience spans Generative AI, retrieval systems, machine learning, and backend development, with particular interest in applications involving sensitive information.
 
-- 🔎 **Retrieval and reasoning:** RAG, knowledge graphs, and multi-hop answers with citations.
-- 🧪 **Fine-tuning and evaluation:** QLoRA on open models, evaluated with RAGAS.
-- 🤖 **Agents and deployment:** Tool-using agents, containerized services, and experiment tracking.
+### 02 / Areas of interest
 
-## 🚀 Selected work
+| Area | Focus |
+|:--|:--|
+| **Retrieval & reasoning** | RAG, knowledge graphs, multi-hop retrieval |
+| **Model engineering** | LLM fine-tuning, QLoRA, model evaluation |
+| **Intelligent systems** | Agentic workflows, tool-using agents |
+| **Reliable AI** | Explainability, evaluation, human oversight |
+| **ML engineering** | Deployment, containerization, experiment tracking |
 
-| Project | What it is | Built with |
-|---|---|---|
-| **Echo Assistant** | A fully local Graph RAG assistant combining vector search, knowledge graphs, and a fine-tuned LLM. | `Python` `LanceDB` `KuzuDB` `Ollama` `QLoRA` |
-| **SANTAID** | AI platform for health insurance fraud investigation, combining ML, knowledge graphs, and human review. | `Python` `FastAPI` `Mistral` `NetworkX` |
-| **CardioAgent-Ops** | Multi-agent ML platform for heart sound analysis, packaged as containerized microservices. | `Docker` `MLflow` `PyTorch` |
+### 03 / Selected projects
 
-## 🛠️ Toolbox
+**01 — Echo Assistant**
 
-`Python` · `PyTorch` · `FastAPI` · `Docker` · `MLflow` · `LanceDB` · `KuzuDB` · `React` · `Git` · `Linux`
+*A locally running Graph RAG assistant*
 
-## 🌱 Beyond code
+Combines vector retrieval and knowledge graph traversal for multi-hop reasoning, powered by a QLoRA fine-tuned Qwen 2.5 7B model.
 
-Treasurer of the **ENSIT Geeks Club** and member of **IEEE RAS** at ENSIT.
+`Python` `LanceDB` `KuzuDB` `Ollama` `QLoRA` `RAGAS`
 
-I speak Arabic, English, and French.
+---
 
-## 📫 Let's talk
+**02 — SANTAID**
 
-I'm open to AI/ML engineering internships and collaborations, especially around trustworthy and explainable AI.
+*AI-assisted health insurance fraud investigation*
 
-The best way to reach me is by email or LinkedIn above.
+Combines machine learning, graph-based anomaly detection, knowledge graphs, and an investigation assistant with human validation.
+
+`Python` `FastAPI` `NetworkX` `Mistral` `Knowledge Graphs`
+
+---
+
+**03 — CardioAgent-Ops**
+
+*Multi-agent platform for heart sound analysis*
+
+A machine learning platform organized around containerized microservices and model experimentation.
+
+`Docker` `MLflow` `PyTorch`
+
+### 04 / Technical stack
+
+**Languages**
+
+`Python` `Java` `C/C++`
+
+**AI & Machine Learning**
+
+`PyTorch` `Generative AI` `RAG` `QLoRA` `Knowledge Graphs`
+
+**Backend & Infrastructure**
+
+`FastAPI` `Flask` `Docker` `MLflow` `REST APIs`
+
+**Frontend & Data**
+
+`React` `Angular` `SQL` `NoSQL` `LanceDB` `KuzuDB`
+
+**Tools**
+
+`Git` `Linux` `Ollama`
+
+### 05 / Beyond technology
+
+Treasurer of the **ENSIT Geeks Club** and member of **IEEE RAS at ENSIT**.
+
+Languages: Arabic · English · French
+
+---
+
+<div align="center">
+
+**Currently looking for a 6-month PFE internship**
+
+Interested in AI/ML engineering, trustworthy AI, and intelligent systems.
+
+<a href="mailto:yasminesrioui@gmail.com">Get in touch ↗</a>
+
+</div>
